@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey, folks! <img src="https://raw.githubusercontent.com/xia-m/xia-m/main/wave.gif" width="30px">
+
+I work on backend development in Python and Go together with containers and Kubernetes. 
 
 <!--
 **xia-m/xia-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
